@@ -1,0 +1,3 @@
+Insert into FLIGHTSCHEDULE(source,destination,date,FLIGHT_ID,FLIGHT_NAME) values('Hyderabad','Chennai','12-03-2020','10001','GOAIR');
+Insert into FLIGHTSCHEDULE(source,destination,date,FLIGHT_ID,FLIGHT_NAME) values('Hyderabad','Chennai','12-03-2020','10002','INDIGO');
+Insert into FLIGHTSCHEDULE(source,destination,date,FLIGHT_ID,FLIGHT_NAME) values('Hyderabad','Bangalore','12-03-2020','10003','GOAIR');
